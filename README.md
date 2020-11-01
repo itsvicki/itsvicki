@@ -7,7 +7,7 @@ She/Her.
 🤓 [Professional rundown](https://www.linkedin.com/in/itsvicki/)\
 💭 [dev.to/itsvicki](https://dev.to/itsvicki)
 
-🔭 Currently working on IAAP certification\
+🔭 Currently working on IAAP certification
 
 <!--
 **itsvicki/itsvicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
