@@ -3,7 +3,7 @@
 I'm Vicki, a software engineer/manager passionate about accessibility whilst creating interactive and creative sites.\
 She/Her.
 
-🤓 [Professional rundown](https://www.linkedin.com/in/itsvicki/)\
+🤓 [Professional rundown](https://www.linkedin.com/in/itsvicki/)
 
 <!--
 **itsvicki/itsvicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
